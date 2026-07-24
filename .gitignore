@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+breast-cancer-wisconsin-data.csv
+
 # C extensions
 *.so
 
