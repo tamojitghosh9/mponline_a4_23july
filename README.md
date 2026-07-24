@@ -53,7 +53,7 @@ The model was evaluated on the 114 test patients using quantitative metrics and 
 
 * **Clinical Error Analysis:** The model generated **3 False Negatives** (malignant tumors classified as benign) and **1 False Positive** (a benign tumor flagged as malignant).
 
-
+### OBSERVATIONS ADDED AS MARKDOWN CELLS IN NOTEBOOK AFTER OUTPUT IMAGE, BASEDON MODEL'S PERFORMANCE 
 
 ## Conclusion
 This study demonstrates the clinical viability of the K-Nearest Neighbors algorithm as an effective diagnostic decision-support tool for oncology screening. The baseline classifier ($K=5$) achieved a robust accuracy of **96.49%** and an F1-score of **0.9524**. Most importantly, the model demonstrated a high diagnostic sensitivity (recall) of **93.02%**, generating only three false negatives out of 114 test cases—a vital achievement where undetected malignancies carry severe consequences.
